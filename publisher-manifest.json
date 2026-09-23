@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3954e269c640804e89aa3582",
+  "owner": "pwk8xwvp",
+  "repo": "page-ad58c9862d4fc708f280142e",
+  "title": "SAC云(SAC)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ad58c9862d4fc708f280142e",
+      "a": "SAC云(SAC)",
+      "b": "2027最新官网",
+      "entity": "SAC云(SAC)",
+      "brand": "SAC云(SAC)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "00e6fdf082bbc5c7a36697082ddd1b1721741e5b307600b1858e6e781d26486b",
+      "content": {
+        "primary_entity": "SAC云(SAC)",
+        "keyword1": "SAC云(SAC)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，SAC云提供基础版、旗舰版与团队版三档订阅，月付价格分别为¥15、¥35、¥85，按年付可优惠至¥150、¥350、¥850，流量从每月100GB到1000GB，支持3台至20台设备同时在线，适合个人用户、家庭多设备与小型团队按需选择。",
+          "AI_HERO_SUBTITLE": "SAC云多设备订阅方案",
+          "AI_HERO_INTRO": "SAC云面向需要流畅访问海外内容的用户，提供按月或按年订阅的加速服务。三档套餐在流量、设备数与节点类型上逐级提升，可依据日常使用强度选择。",
+          "AI_VISUAL_TITLE": "SAC云 灵活订阅选择",
+          "AI_HIGHLIGHT_1": "基础版每月100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线加速",
+          "AI_HIGHLIGHT_3": "团队版支持20台设备",
+          "AI_FEATURES_TITLE": "SAC云订阅要点",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到订阅周期，按自身需求快速判断。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版支持20台，按同时在线设备数选择更合理。",
+          "AI_FEATURE_TITLE_2": "按流量定套餐",
+          "AI_FEATURE_TEXT_2": "每月100GB适合轻度浏览，300GB适合流媒体与游戏，1000GB满足团队高频使用。",
+          "AI_FEATURE_TITLE_3": "年付更省费用",
+          "AI_FEATURE_TEXT_3": "基础版年付¥150、旗舰版年付¥350、团队版年付¥850，长期使用可按年订阅。",
+          "AI_PLANS_TITLE": "SAC云套餐对比",
+          "AI_PLANS_INTRO": "基础版、旗舰版、团队版在流量、设备数与节点权益上各有侧重，可参照月付与年付价格做出选择。",
+          "AI_CLIENTS_TITLE": "SAC云客户端选择",
+          "AI_CLIENTS_INTRO": "不同设备适合的客户端不同，可根据手机、电脑或路由器场景选择匹配的订阅方式。",
+          "AI_GUIDE_TITLE": "SAC云订阅配置步骤",
+          "AI_GUIDE_INTRO": "从确认套餐到导入订阅，按设备环境完成配置，即可开始使用SAC云服务。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_1": "对照设备数量与月度流量，在基础版、旗舰版或团队版中选定适合档位。",
+          "AI_STEP_TITLE_2": "检查适配",
+          "AI_STEP_TEXT_2": "确认手机、电脑或路由器系统版本满足所选客户端运行要求。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "依照所选客户端的使用说明，把SAC云订阅配置导入并启动连接。",
+          "AI_CLOSING_TITLE": "SAC云订阅从需求出发",
+          "AI_CLOSING_TEXT": "按设备数与流量选定套餐，完成订阅配置即可使用SAC云加速服务。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "SAC云支持哪些设备类型？",
+          "AI_FAQ_ANSWER_1": "常见支持Windows、macOS、Android、iOS以及部分路由器系统，具体支持情况取决于所选客户端。建议根据设备系统选择对应客户端，并参照其文档完成订阅导入。",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量如何计算？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版为5台，团队版为20台。若同一时间使用的终端数量超出套餐上限，可考虑升级档位。",
+          "AI_FAQ_QUESTION_3": "月付与年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按¥15、¥35或¥85每月计费，年付则为¥150、¥350或¥850每年。年付适合长期使用，月付适合短期体验或用量不确定的情况。",
+          "AI_FAQ_QUESTION_4": "流量用完后怎么办？",
+          "AI_FAQ_ANSWER_4": "套餐内流量按月提供，当月用尽后可通过升级档位或调整使用习惯来应对。建议根据历史用量选择合适的套餐，避免频繁补充。",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版的线路有什么区别？",
+          "AI_FAQ_ANSWER_5": "旗舰版提供IPLC专线并优化游戏加速，团队版提供VIP专属高带宽节点并支持企业定制路由。普通线路节点池则出现在基础版中，可按对延迟和带宽的要求选择。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kq078ctxv.com",
+    "host": "xn--9kq078ctxv.com"
+  },
+  "file_hashes": {
+    "index.html": "24625dd4ab06318124ff4785f2d753d3ff16125b34421bec9886cdcefb18d539",
+    "sitemap.xml": "38b1ec622d6b568db622791e3c2f65ee09bdbed244b6f4174c641a84ad122c5c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cc474f0e66b56c4db3a3659e93b9b70d9d20042663b3bf4d5a5d25be4d851530",
+    "robots.txt": "48c71fe199f43344e813d16db5415db1984a356a11efd53d1ef29fec023bf454",
+    "a4dce6769bef312d084811eac7bc49cb.txt": "de60910a5f56f10d8503b787cd65bf0cad9702b8a8d17d35081608f398f5240f"
+  },
+  "revision": "a49c78530c4be875db5582c36f4d0d2f7092519a85a729fd80156b1d4fe69392"
+}
